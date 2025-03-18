@@ -34,6 +34,6 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 ---
 
 ## 📫 Let's Connect!  
-📧 **Email:** ziadeid861@gmail.com  
-🌐 **GitHub:** [Zeyad-Maged](https://github.com/Zeyad-Maged)  
-💼 **LinkedIn:** [zeyadmaged](https://www.linkedin.com/in/zeyadmaged)  
+📧 **Email:** hassanmohamed997cb@gmail.com  
+🌐 **GitHub:** [Hassan-Mohamed](https://github.com/Hassan-Mohamed1)  
+💼 **LinkedIn:** [Hassan-Mohamed]()  
