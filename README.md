@@ -36,4 +36,4 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 ## 📫 Let's Connect!  
 📧 **Email:** hassanmohamed997cb@gmail.com  
 🌐 **GitHub:** [Hassan-Mohamed](https://github.com/Hassan-Mohamed1)  
-💼 **LinkedIn:** [Hassan-Mohamed]()  
+💼 **LinkedIn:** [Hassan-Mohamed](www.linkedin.com/in/hassan-mohamed-b64040263)  
